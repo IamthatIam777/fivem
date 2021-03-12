@@ -19,7 +19,7 @@
     "fast-glob": "^3.2.5",
     "filesize": "^6.1.0",
     "follow-redirects": "^1.13.3",
-    "immer": "^8.0.0",
+    "immer": "^8.0.1",
     "inversify": "^5.0.1",
     "minimatch": "^3.0.4",
     "mkdirp": "^1.0.4",
