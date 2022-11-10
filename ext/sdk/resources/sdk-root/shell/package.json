@@ -21,7 +21,7 @@
     "follow-redirects": "^1.13.3",
     "immer": "^8.0.0",
     "inversify": "^5.0.1",
-    "minimatch": "^3.0.4",
+    "minimatch": "^3.0.5",
     "mkdirp": "^1.0.4",
     "node-fetch": "^2.6.1",
     "react": "^16.13.1",
